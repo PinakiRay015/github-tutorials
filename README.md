@@ -8,5 +8,5 @@ This command is used to clone an existing repository to your local machine <br>
 <br>
 
 ## Git status: 👇
-To track the state of the code <br>
+To track or check the state of the code <br>
 <t> command :- git clone 'repository link'
