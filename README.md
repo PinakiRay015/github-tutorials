@@ -16,6 +16,8 @@ To track or check the state of the code <br>
 ## Add: 👇
 To add a new/modified file or folder in our directory to the git staging area <br>
 <t> command :- git add (file or folder ) name
+<br>
+<br>
 
 ## commit: 👇
 To take a snapshot or saving all the all the changed or modified files <br>
