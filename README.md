@@ -18,4 +18,5 @@ To add a new file or folder into tracking <br>
 <t> command :- git add (file or folder ) name
 
 ## commit: 👇
-To 
+To take a snapshot or saving all the all the changed or modified files <br>
+<t> command :- git commit -m ("Give your committing message")
